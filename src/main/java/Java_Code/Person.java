@@ -4,7 +4,7 @@ public class Person {
 
    private int age;
     String havsiler =" tavaya";
-private doble = 56.34;
+private double salary  = 5.34;
    
-   private String  = "when is the end of date"
+   private String  question = "when is the end of date";
 }
