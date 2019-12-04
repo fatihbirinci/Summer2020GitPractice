@@ -6,5 +6,7 @@ public class Person {
     private String firstname;
     private double salary;
     String job;
+   
+   private String address;
 
 }
