@@ -2,5 +2,6 @@ package Java_Code;
 
 public class Person {
 
-    int age;
+   private int age;
+    private String firstname;
 }
